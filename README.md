@@ -1,45 +1,26 @@
-¡Hola! Soy Felipe 👋
+# ¡Hola! Soy Felipe 👋
 
-Soy Desarrollador Python y Analista de Datos con una Maestría en Ciencias de la Computación. 
-Me interesa el desarrollo de soluciones basadas en Inteligencia Artificial, particularmente en Machine Learning y Visión por Computadora.
+Soy Desarrollador Python y Analista de Datos. Me apasiona resolver problemas complejos utilizando Inteligencia Artificial, con un enfoque particular en el Machine Learning y la Visión por Computadora. Además, tengo experiencia trabajando bajo metodologías ágiles para asegurar la entrega continua de valor.
 
-🛠️ Tecnologías y Herramientas
+### 🎓 Educación
+* **Maestría en Ciencias de la Computación** - Universidad Autónoma de Querétaro (UAQ)
+* **Ingeniería en Sistemas Computacionales** - Instituto Tecnológico de Celaya (ITC)
 
-Lenguajes:
-Python, SQL
+### 🛠️ Tecnologías y Herramientas
+* **Lenguajes:** Python, C#, SQL
+* **Machine Learning & Data Science:** Pandas, NumPy, MediaPipe
+* **Metodologías & Desarrollo:** Scrum, Git, GitHub, Notebooks, Docker
 
-Data Science & Machine Learning:
-Pandas, NumPy, MediaPipe
+### 🚀 Proyecto Destacado
+**Entrenador virtual para Lengua de Señas Mexicana (LSM)**
+* Tesis de maestría centrada en el diseño de un pipeline en Python para análisis de video, extracción de puntos clave utilizando MediaPipe e implementación del algoritmo Dynamic Time Warping (DTW) para comparación de secuencias y retroalimentación en tiempo real.
 
-Herramientas de desarrollo:
-Git, GitHub, Notebook, Docker
+**Automatización de procesamiento y análisis de videos**
+* Scripts en Python para la extracción, normalización y exportación de resultados a formato CSV.
 
-🚀 Proyecto Destacado
+### 🌱 Actualmente estoy...
+* Buscando nuevas oportunidades profesionales como Desarrollador Python o Data Analyst.
+* Trabajando en proyectos personales de Machine Learning y Visión por Computadora.
 
-Entrenador virtual para Lengua de Señas Mexicana (LSM)
-
-Proyecto de tesis enfocado en el desarrollo de un pipeline de análisis de video en Python para evaluar la ejecución de señas en Lengua de Señas Mexicana.
-
-El sistema realiza:
-• Extracción de puntos clave de manos y rostro usando MediaPipe  
-• Normalización de coordenadas para comparación de movimiento  
-• Comparación de secuencias mediante Dynamic Time Warping (DTW)  
-• Generación de retroalimentación automática basada en similitud de movimiento  
-
-Este sistema fue evaluado con usuarios reales para analizar su utilidad en el aprendizaje de LSM.
-
-📊 Automatización y Procesamiento de Datos
-
-Desarrollo de scripts en Python para:
-• Procesamiento de datos derivados de video  
-• Normalización de secuencias de puntos clave  
-• Exportación de resultados a CSV para análisis posterior  
-
-🌱 Actualmente
-
-• Buscando oportunidades como Python Developer o Data Analyst  
-• Desarrollando proyectos personales relacionados con Machine Learning y Computer Vision  
-
-📫 Contacto
-
-LinkedIn: [https://www.linkedin.com/in/ffeliperc/]
+### 📫 Cómo contactarme
+* **LinkedIn:** [Haz clic aquí para ir a mi perfil](https://www.linkedin.com/in/ffeliperc/)
