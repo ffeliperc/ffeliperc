@@ -19,4 +19,4 @@ Soy Desarrollador Python y Analista de Datos con una Maestría en Ciencias de la
 * Trabajando en proyectos personales de Machine Learning y Visión por Computadora.
 
 ### 📫 Cómo contactarme
-* **LinkedIn:** [Tu perfil de LinkedIn](Aquí_pegaremos_tu_enlace_cuando_lo_tengas)
+* **LinkedIn:** [Tu perfil de LinkedIn](https://www.linkedin.com/in/ffeliperc/)
